@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title_activity_scrolling">News Details</string>
+    <string name="newList">Top News Lis</string>
+    <string name="noConnection">No connection Error occur</string>
+    <string name="reTry">Retry</string>
+</resources>

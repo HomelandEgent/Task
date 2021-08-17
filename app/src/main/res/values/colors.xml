@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="title_color">#73879c</color>
+    <color name="colorAccent">@color/colorPrimaryDark</color>
+    <color name="theme_primary">@color/colorPrimary</color>
+
+    <!--    30798B-->
+    <color name="colorPrimaryDark">#3F7E94</color>
+    <color name="colorPrimary">#478CA5</color>
+
+
+
+    <color name="white">#FFFFFFFF</color>
+</resources>
